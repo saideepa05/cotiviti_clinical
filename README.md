@@ -4,7 +4,9 @@
 **Topic:** Clinical Decision Making and Pattern Recognition in Health Care  
 **Author:** Sai Deepa Kadaru  
 **Stack:** Python, LangGraph, LangChain, OpenAI, Streamlit  
-**Video Demo:** https://www.loom.com/share/f2e57c2f91f7467dba458a58a7ebce4f
+**Video Demo:** https://www.loom.com/share/f2e57c2f91f7467dba458a58a7ebce4f  
+**Presentation:** [Cotiviti_ClinicalAI_Presentation.pptx](Cotiviti_ClinicalAI_Presentation.pptx)  
+**Written Report:** [Clinical Decision Making and Pattern Recognition in Health Care.docx](Clinical%20Decision%20Making%20and%20Pattern%20Recognition%20in%20Health%20Care.docx)
 
 ---
 
