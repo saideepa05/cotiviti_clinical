@@ -148,8 +148,3 @@ This POC demonstrates the following concepts from the assessment topic:
 
 ---
 
-## Notes
-
-- The `.env` file is excluded from version control. Never commit API keys.
-- Sample queries are included in the UI for all three domains at both low and high risk levels.
-- `anomaly_chart.py` contains a Plotly-based time-series anomaly detection utility built during development and retained for reference.
