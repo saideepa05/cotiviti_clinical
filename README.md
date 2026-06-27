@@ -3,8 +3,8 @@
 
 **Topic:** Clinical Decision Making and Pattern Recognition in Health Care  
 **Author:** Sai Deepa Kadaru  
-**Video Demo:** https://www.loom.com/share/f2e57c2f91f7467dba458a58a7ebce4f  
-**Stack:** Python, LangGraph, LangChain, OpenAI, Streamlit
+**Stack:** Python, LangGraph, LangChain, OpenAI, Streamlit  
+**Video Demo:** https://www.loom.com/share/f2e57c2f91f7467dba458a58a7ebce4f
 
 ---
 
@@ -148,5 +148,4 @@ This POC demonstrates the following concepts from the assessment topic:
 | Pattern Recognition | Risk classification with domain-specific criteria for low/medium/high |
 
 ---
-
 
